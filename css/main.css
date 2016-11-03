@@ -1,0 +1,22 @@
+/**
+Escribir el CSS necesario aqui
+*/
+.hola_mundo{
+  border: 5px solid blue;
+  display: block;
+  margin:20px 10px;
+  pading: 40px 40px;
+  padding-left: 50px;
+  text-align: center;
+background-color: orange;
+
+
+
+}
+p{
+  border: 1px dashed black;
+  display: block;;
+  margin:  50px 50px ;
+  text-align: center;
+  background-color:#ccc;
+}
